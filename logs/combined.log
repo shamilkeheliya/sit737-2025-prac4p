@@ -41,3 +41,13 @@
 {"level":"info","message":"Operation: Division, Numbers: 5, 3, Result: 1.6666666666666667","service":"calculator-microservice"}
 {"level":"info","message":"Request received from IP: ::1 - GET /divide?num1=5&num2=0","service":"calculator-microservice"}
 {"level":"error","message":"Division by zero error","service":"calculator-microservice"}
+{"level":"info","message":"Request received from IP: ::1 - GET /divide?num1=20&num2=4","service":"calculator-microservice"}
+{"level":"info","message":"Operation: Division, Numbers: 20, 4, Result: 5","service":"calculator-microservice"}
+{"level":"info","message":"Request received from IP: ::1 - GET /add?num1=23&num2=49","service":"calculator-microservice"}
+{"level":"info","message":"Operation: Addition, Numbers: 23, 49, Result: 72","service":"calculator-microservice"}
+{"level":"info","message":"Request received from IP: ::1 - GET /subtract?num1=23&num2=16","service":"calculator-microservice"}
+{"level":"info","message":"Operation: Subtraction, Numbers: 23, 16, Result: 7","service":"calculator-microservice"}
+{"level":"info","message":"Request received from IP: ::1 - GET /multiply?num1=23&num2=16","service":"calculator-microservice"}
+{"level":"info","message":"Operation: Multiplication, Numbers: 23, 16, Result: 368","service":"calculator-microservice"}
+{"level":"info","message":"Request received from IP: ::1 - GET /multiply?num1=3&num2=8","service":"calculator-microservice"}
+{"level":"info","message":"Operation: Multiplication, Numbers: 3, 8, Result: 24","service":"calculator-microservice"}
